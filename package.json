@@ -1,7 +1,7 @@
 {
   "name": "agt",
   "version": "0.0.0",
-  "description": "avalon grunt tool",
+  "description": "avalon modules support",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,8 @@
   },
   "author": "ilife5",
   "license": "BSD",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "~0.4.4"
+  }
 }
